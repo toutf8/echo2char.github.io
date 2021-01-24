@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技术文章 on ToUtf8 Blog</title>
+    <link>https://toutf8.github.io/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</link>
+    <description>Recent content in 技术文章 on ToUtf8 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2021. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 25 Jan 2021 00:08:56 +0800</lastBuildDate><atom:link href="https://toutf8.github.io/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PHP 字符串当作代码执行</title>
+      <link>https://toutf8.github.io/2021/01/24/php-run-string-as-code/</link>
+      <pubDate>Mon, 25 Jan 2021 00:08:56 +0800</pubDate>
+      
+      <guid>https://toutf8.github.io/2021/01/24/php-run-string-as-code/</guid>
+      <description>最近遇到的问题，部分代码是直接写入到 redis 缓存的，这部分代码需要转换成代码执行。 处理的方式有下面三种： 简单的方式 可以通过 php 的 eval 函数直接使用 读取内</description>
+    </item>
+    
+  </channel>
+</rss>

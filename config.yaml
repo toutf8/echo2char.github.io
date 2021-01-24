@@ -1,8 +1,8 @@
-title: "CoderZh Blog"
+title: "ToUtf8 Blog"
 languageCode: "zh-CN"
 baseurl: "https://toutf8.github.io/"
 theme: "hugo-rapid-theme"
-copyright: "Copyright (c) 2015. All rights reserved."
+copyright: "Copyright (c) 2021. All rights reserved."
 MetaDataFormat: "yaml"
 canonifyurls: true
 builddrafts: false
@@ -18,8 +18,8 @@ Taxonomies:
   tag: "tags"
   category: "categories"
 params:
-  CopyrightHTML: "Copyright &#xA9; 2015. All Rights Reserved."
-  GitHubUser: "coderzh"
+  CopyrightHTML: "Copyright &#xA9; 2021. All Rights Reserved."
+  GitHubUser: "toutf8"
   SidebarRecentLimit: 5
   DateForm : "2006年01月02日"
   Tagline: "一个程序员的思考与总结"
@@ -42,7 +42,7 @@ menu:
         Weight: -100
         URL: "/about/"
 author:
-  name: "CoderZh"
+  name: "ToUtf8"
 
 images:
   - 480x
